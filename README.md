@@ -60,7 +60,7 @@ I'm currently developing my data analysis skills and expanding my knowledge of a
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Power%20BI-Exploring-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
 
